@@ -126,7 +126,27 @@
                 </div>
     </div>
 </div>
+<!--start about-->
+<div class="about" id="about">
+    <div class="container">
+            <h2 class="special-heading">About Us</h2>
+            <p>Less Is More Work</p>
+            <div class="about-content">
+            <div class="image">
+                <img src="./image/about us.jpg" alt="">
+            </div>
+            <div class="text">
+                <p>we are dedicated to providing high-quality solutions that meet the unique needs of our clients. Our team of experienced professionals has years of experience in web design, development, graphic design, UI/UX, and other digital services. </p>
+                <hr>
+                <p>
+                    We pride ourselves on our collaborative approach, working closely with our clients to ensure that their vision is brought to life. Our mission is to help businesses achieve their goals through innovative and effective digital solutions. We are committed to delivering exceptional customer service and building long-lasting relationships with our clients.
+                </p>
+            </div>
+            </div>
+    </div>
+</div>
 
    
 </body>
 </html>
+
