@@ -14,7 +14,7 @@
 <body>
     <div class="header">
         <div class="container">
-        <img class="logo" src="image/logo.png" alt="logo lean">
+        <img class="logo" src="image/logo-removebg-preview.png" alt="logo lean">
             <div class="links">
                 <span class="icon">
                     <span></span>
@@ -101,9 +101,8 @@
 
                     </div>
                 
-           <div class="col">
             <div class="image">
-            <img src="./image/portfolio1.jpg" alt="service">
+            <img src="./image/pc1-removebg-preview.png" alt="service">
            </div>
         </div>
         </div>
@@ -115,17 +114,38 @@
     <div class="container">
         <h2 class="special-heading">Portfolio</h2>
         <p>If you do it right, it will last forever</p>
-        <div class="services-content">
-            <div class="col">
-                <div class="srv">
-                    <img src="./image/portfolio3.jpg" alt="">
+        <div class="portfolio-content">
+            <div class="card">
+                <div class="info">
+                    <img src="./image/project1.jpg" alt="">
                     <div class="texte">
-                        <h3>Graphic Design</h3>
-                        <p>we specialize in creating stunning graphic designs that capture the essence of your brand.</p>
+                        <h3>Creative Design</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dicta minus nisi placeat repellendus.</p>
                     </div>
                 </div>
+            </div>
+                <div class="card">
+                <div class="info">
+                    
+                    <img src="./image/project2.jpg" alt="">
+                    <div class="texte">
+                        <h3>Populor Template</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dicta minus nisi placeat repellendus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="info">                 
+                    <img src="./image/project3.jpg" alt="">
+                    <div class="texte">
+                        <h3>Flyer Design</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dicta minus nisi placeat repellendus.</p>
+                    </div>
+                </div>
+            </div>
     </div>
 </div>
+<!--end portfolio-->
 <!--start about-->
 <div class="about" id="about">
     <div class="container">
@@ -133,7 +153,7 @@
             <p>Less Is More Work</p>
             <div class="about-content">
             <div class="image">
-                <img src="./image/about us.jpg" alt="">
+                <img src="./image/pc-removebg-preview.png" alt="">
             </div>
             <div class="text">
                 <p>we are dedicated to providing high-quality solutions that meet the unique needs of our clients. Our team of experienced professionals has years of experience in web design, development, graphic design, UI/UX, and other digital services. </p>
@@ -145,8 +165,35 @@
             </div>
     </div>
 </div>
+<div class="contact" id="contact">
+    <div class="content">
+        <h2 class="special-heading">Contact</h2>
+        <P>We are born to create</P>
+        
+        <div class="contact-container">
+            <br><br><br><br><br><br>
+                <a href="mailto:leonagency@mail.com?subject=Contact" class="link">leonagency@mail.com</a>
+            <div class="icon">
+            Find Us On Social Networks
+            <i class="fab fa-youtube" >
+            </i>
+            <i class="fab fa-facebook">
+            </i>
+            <i class="fab fa-twitter">
+            </i>
+             </div>
+        </div>
+    </div>
+    <br><br><br><br><br><br>
+</div>
 
+
+        <div class="footer">
+            &copy; 2023
+                <span>Leon</span>
+                All Right Reserved
+                    </div>
+ 
    
 </body>
 </html>
-
